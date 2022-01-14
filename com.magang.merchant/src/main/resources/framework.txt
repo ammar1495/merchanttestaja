@@ -1,0 +1,4 @@
+browser=Chrome
+myusername=admindika4
+password=d1k4@passw0rd
+displayname=Merchant
